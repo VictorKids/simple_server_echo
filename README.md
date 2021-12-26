@@ -1,2 +1,2 @@
 # simple_server_echo
-a simple echo-server created following ParametricCamp videos
+A simple nodejs echo-server created following ParametricCamp Youtube videos.
